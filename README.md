@@ -116,4 +116,4 @@ jupyter notebook notebooks/car_price_eda.ipynb
 
 ---
 
-*Author: Zaxro (Oybek Nortojiyev)*
+*Author: Zaxro Madrimova*
